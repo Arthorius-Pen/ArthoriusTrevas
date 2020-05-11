@@ -1,0 +1,38 @@
+body {
+    background: #1a1a1a;
+    font-family: Times;
+    background-size: 100vh;
+    height: 100vh
+  }
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .title {
+    text-align: center;
+    color: whitesmoke;
+    
+  }
+  
+  .subtitle {
+    color: white;
+    text-align: center;
+  }
